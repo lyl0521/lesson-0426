@@ -20,4 +20,4 @@ for i in range(1, rows):
 rows = int(input('请输入需要的行数：'))
 
 for i in range(rows):
-        print(i)
+
