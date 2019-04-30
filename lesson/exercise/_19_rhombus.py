@@ -16,8 +16,23 @@ for i in range(1, rows):
     print('')
 
 
+print('')
+
+
+s = '*'
+for i in range(1, 8, 2):
+    print(('x'*i).center(7))
+for i in reversed(range(1,6,2)):
+    print(('x'*i).center(7))
+
 
 rows = int(input('请输入需要的行数：'))
+for i in range(1,rows,2):
+    t = (rows-1-i)//2
+    print(' '*t + 'x'*i + ' '*t)
+for i in reversed(range(1,rows-2,2)):
+    t = (rows-1-i)//2
+    print(' '*t + 'x'*i + ' '*t)
 
-for i in range(rows):
+name=[]
 
