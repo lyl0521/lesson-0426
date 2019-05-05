@@ -1,0 +1,5 @@
+On Monday, Boeing CEO Dennis Muilenburg explained why the company installed MCAS on the 737 Max but didn't disclose the existence of the system to pilots,all while challenging the media's characterization of MCAS as an anti-stall system.
+
+"When you take a look at the original design of the MCAS system.I think in some cases, in the media, it has been reported or described as an anti-stall system, which it is not." Muilenburg told reporters shortly after Boeing's annual shareholder meeting."It's a system that's designed to provide handling qualities for the pilot that meet pilot preferences."
+
+Muilenburg added, "We want the airplane to behave in the air similar to the previous generation of 737s.That's the preferred pilot feel for the airplane, and MCAS is designed to provide those kinds of handling qualities at a high angle of attack."
